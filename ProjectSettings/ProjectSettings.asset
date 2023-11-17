@@ -731,7 +731,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -751,11 +757,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: d82128d3-e1b2-4389-b4e7-af55204ac1fa
+  cloudProjectId: f8a40dfe-a8ec-4ee6-9601-e08ca96442ea
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Mod4-WorldBuilding-2023
-  organizationId: bcrosbie
+  organizationId: aiowarrior
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
